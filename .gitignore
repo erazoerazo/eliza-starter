@@ -9,3 +9,4 @@ dist/
 db.sqlite
 .idea
 .tee-cloud
+./python_scripts/.venv
